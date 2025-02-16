@@ -1,2 +1,10 @@
 # Тестирование мобильных приложений
-[Создаем чек-лист и тест-кейсы для тестирования мобильных приложений](https://docs.google.com/spreadsheets/d/1sW54-J7fgb5TIMi1U3fZ0JmnRyAeFohDEpz0XeLtC5U/edit?usp=sharing)
+Я протестировала мобильное приложение "shopping-list" и разработала различную тестовую документацию. Тестовая документация позволила организовать процесс выявления ошибок и  улучшила качество мобильного приложения. Тестирование проводилось с помощью физического Android-устройства (мобильного телефона).
+
+[Чек-лист для тестирования мобильных приложений](https://docs.google.com/spreadsheets/d/1sW54-J7fgb5TIMi1U3fZ0JmnRyAeFohDEpz0XeLtC5U/edit?usp=sharing)
+
+[Тест-кейс для тестирования мобильных приложений](https://github.com/Goshko07/mobile/blob/b32c497e631e943ebb2e534ab8c2ade3792d0cf8/G9-2025-02-06.pdf)
+
+[Отчеты о дефектах мобильного приложения](https://github.com/Goshko07/mobile/commit/3209a4e5585ef42a11d69ce7a23eaed90db374c8)
+
+[Отчет о результатах тестирования](https://github.com/Goshko07/mobile/commit/a1bde1be150ccac01f72c4975b4d7f413da07833)
